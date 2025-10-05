@@ -23,7 +23,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7632e3de-5ec8-4612-a6ff-ca4c2b37bc36" name="Changes" comment="01 zmiana metody policz" />
+    <list default="true" id="7632e3de-5ec8-4612-a6ff-ca4c2b37bc36" name="Changes" comment="zmiana na mnożenie w metodzie policz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,12 +47,16 @@
     &quot;assignee&quot;: &quot;ps0ta&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bywis/OU2.git",
-    "accountId": "a922fa38-42d5-4720-91b6-1c3b572553f0"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bywis/OU2.git&quot;,
+    &quot;accountId&quot;: &quot;a922fa38-42d5-4720-91b6-1c3b572553f0&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/student/CLionProjects/untitled/main.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/student/CLionProjects/untitled/main.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -78,12 +82,13 @@
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "02",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -128,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759669310241</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zmiana na mnożenie w metodzie policz">
+      <option name="closed" value="true" />
+      <created>1759669986868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759669986868</updated>
+    </task>
+    <task id="LOCAL-00005" summary="zmiana na mnożenie w metodzie policz">
+      <option name="closed" value="true" />
+      <created>1759669991019</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759669991019</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +180,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01 zmiana metody policz" />
-    <option name="LAST_COMMIT_MESSAGE" value="01 zmiana metody policz" />
+    <MESSAGE value="zmiana na mnożenie w metodzie policz" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmiana na mnożenie w metodzie policz" />
   </component>
 </project>
